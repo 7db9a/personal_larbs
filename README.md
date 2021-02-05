@@ -1,3 +1,5 @@
+I forked this and made modifications for my personal use. Don't use this repo. Use Luke Smith's.
+
 # Luke's Auto-Rice Bootstraping Scripts (LARBS)
 
 
