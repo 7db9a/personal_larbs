@@ -8,8 +8,7 @@ I forked this and made modifications for my personal use. Don't use this repo. U
 On an Arch based distribution as root, run the following:
 
 ```
-1=raw.githubusercontent.com/LukeSmithxyz/LARBS/1e485852520da12104138b70ea28e25112c909a1/larbs.sh
-curl -LO $1
+curl -LO raw.githubusercontent.com/7db9a/personal_LARBS/master/larbs.sh
 sh larbs.sh
 ```
 
